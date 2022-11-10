@@ -1,0 +1,37 @@
+.titel {
+ text-align: center;
+ color:#51968c; 
+ font-size: 150px;  
+}
+
+ body {
+ background-color: #030c3d;
+
+}
+
+.center {
+    text-align: start;
+    margin-top: -300px;
+    margin-left: 115px;
+}
+
+.Bilder {
+    width: 350px;
+    height: auto;
+
+}
+    .text{
+font-size: 50px;
+color: #15d649;
+    }
+
+    .bild2 {
+        width: 400px;
+        height: 450px;
+        margin-left: 1150px;
+        margin-top: -700px;
+    }
+
+    
+
+    
